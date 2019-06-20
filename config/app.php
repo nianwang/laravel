@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        FriendsOfCat\LaravelFeatureFlags\FeatureFlagsProvider::class,
 
         /*
          * Application Service Providers...
